@@ -1,5 +1,12 @@
 # Spotify_Reddit_ETL
-KDT DE-Dev Course Toy Project
+---
+
+spotify의 최근 발매된 앨범 정보와 reddit의 music 커뮤니티 게시글 내용을 비교하여 아티스트와 장르의 영향력(트렌드)을 분석해보는 개인 프로젝트입니다.
+
+
+<br>
+
+
 
 ## spotify.ipynb
 
